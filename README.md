@@ -14,9 +14,9 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## [Inder]'s Cloud Journey
 
-[✍️ Introduce yourself]
+[Hi I am starting this journey to get better at cloud and improve everyday]
 
 [✍️ Tell us why you started this challenge]
 
